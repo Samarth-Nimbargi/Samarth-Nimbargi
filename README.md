@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Samarth Nimbargi, an aspiring Data Analyst with a strong interest in data, business insights, and problem-solving. I enjoy working with data to understand patterns, uncover insights, and support better decision-making.<br><br>Technologies & Skills<br><br>* SQL: MySQL<br>* Python: Pandas, NumPy, Matplotlib, Seaborn<br>* Data Analysis: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis<br>* Statistics: Descriptive Statistics, Probability, Correlation, Regression<br>* Data Visualization: Power BI, Excel<br>* Power BI: DAX, Data Modeling, Relationships, Time Intelligence<br>* Excel: Data Analysis, Pivot Tables, Lookup Functions, Data Cleaning<br>* Dashboard & Reporting: Interactive Dashboards, Data Visualization, Business Reporting<br>* Tools: Jupyter Notebook, MySQL Workbench, VS Code, Git, GitHub<br><br>I am also learning Machine Learning and Artificial Intelligence to expand my capabilities in predictive analytics and AI-driven solutions.<br><br>I am building real-world, end-to-end analytics projects to strengthen my technical and business problem-solving skills. My goal is to build a career in Data Analytics and use data to drive meaningful, data-informed business decisions.
+I am Samarth Nimbargi, an aspiring Data Analyst with a strong interest in data, business insights, and problem-solving.<br><br>Technologies & Skills<br><br>* SQL: MySQL<br>* Python: Pandas, NumPy, Matplotlib, Seaborn<br>* Excel: Pivot Tables, Lookup Functions, Data Cleaning, Data Analysis<br>* Power BI: DAX, Data Modeling, Relationships, Time Intelligence<br>* Data Analysis: Data Cleaning, Data Wrangling, EDA, Statistical Analysis<br>* Statistics: Descriptive Statistics, Probability, Correlation, Regression<br>* Visualization: Power BI, Excel<br>* Tools: Jupyter Notebook, MySQL Workbench, VS Code, Git, GitHub<br><br>Currently learning Machine Learning and Artificial Intelligence to expand my skills in predictive analytics and AI-driven solutions.<br><br>Building real-world analytics projects to strengthen my technical and business problem-solving skills, with the goal of building a career in Data Analytics.
 
 
 ## 🌐 Socials:
@@ -11,15 +11,6 @@ I am Samarth Nimbargi, an aspiring Data Analyst with a strong interest in data, 
 ![](https://github-readme-stats.shion.dev/api?username=Samarth-Nimbargi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Samarth-Nimbargi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samarth-Nimbargi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarth-Nimbargi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samarth-Nimbargi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Samarth-Nimbargi&icon=0&color=0)](https://visitcount.itsvg.in)
